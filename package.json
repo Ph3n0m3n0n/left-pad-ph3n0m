@@ -1,0 +1,19 @@
+{
+  "name": "left-pad-ph3n0m",
+  "version": "1.0.0",
+  "description": "adds padding to the left side of a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ph3n0m3n0n/left-pad-ph3n0m.git"
+  },
+  "author": "Ph3n0m3n0n <kantaris96@my.codergv.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ph3n0m3n0n/left-pad-ph3n0m/issues"
+  },
+  "homepage": "https://github.com/Ph3n0m3n0n/left-pad-ph3n0m#readme"
+}
